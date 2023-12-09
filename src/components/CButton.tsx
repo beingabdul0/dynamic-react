@@ -1,5 +1,5 @@
 import { Button } from "@progress/kendo-react-buttons";
-import "../index.css";
+
 interface Props {
   text: string;
   themeColor:

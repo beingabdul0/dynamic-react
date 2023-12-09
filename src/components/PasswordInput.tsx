@@ -1,5 +1,4 @@
 import { TextBox, TextBoxChangeEvent } from "@progress/kendo-react-inputs";
-import "../App.css";
 interface Props {
   value: string;
   placeHolder: string;

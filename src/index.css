@@ -12,12 +12,16 @@
   margin: 1rem;
 }
 .mt-1 {
-  margin-top: 1rem;
+  margin-top: 1rem !important;
 }
 .mb-1 {
   margin-bottom: 1rem;
 }
-.k-input > *,
-.k-picker > * {
-  margin: 4px;
+.Card-body {
+  margin: 2rem;
+  padding: 2rem;
+  text-align: center;
+  background-color: rgb(228, 228, 228);
+  border-radius: 0.5rem;
+  width: 50%;
 }
